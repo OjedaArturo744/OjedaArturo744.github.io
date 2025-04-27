@@ -50,7 +50,7 @@
     }
   },
   {
-    "name": "Flipkart MERN",
+    "name": "Sistema Prestamo Vehicular",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
     "category": "mern",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "name": "ResumeGen",
+    "name": "Sistema Gestion Restaurante",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
     "image": "resumegen",
     "category": "mern",
